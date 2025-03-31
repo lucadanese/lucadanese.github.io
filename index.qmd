@@ -5,7 +5,7 @@ page-layout: full
 about:
   template: solana
   image-width: 10em
-  image: images/luca.HEIC
+  image: images/luca.jpg
   image-shape: round
   links:
     - icon: envelope-at
