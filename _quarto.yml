@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - images/luca.HEIC
+    - files/CV_Luca_Danese.pdf
 
 website:
   title: "Luca Danese"

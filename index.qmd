@@ -5,7 +5,7 @@ page-layout: full
 about:
   template: solana
   image-width: 10em
-  image: "media/luca.heic"
+  image: images/luca.HEIC
   image-shape: round
   links:
     - icon: envelope-at
@@ -13,7 +13,7 @@ about:
       href: "mailto: l.danese1@campus.unimib.it"
     - icon: journal-text
       text: "Curriculum vitae"
-      href: "files/CV_Luca_Danese.pdf"
+      href: files/CV_Luca_Danese.pdf
     - icon: github
       text: "Github"
       href: https://github.com/lucadanese
