@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luca Danese",
+    "section": "",
+    "text": "I am a PhD student in Statistics at the Department of Economics, Management and Statistics of University of Milano-Bioccca. My main interest lies in Bayesian statistics, particularly the methodological and computational aspects."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Luca Danese",
+    "section": "Publications",
+    "text": "Publications\nPreprints\n\nCorradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (2024+). Model-based clustering of time-dependent observations with common structural chang. [ArXiv]\n\nArticles in referred journals\n\nCorradin, R., Danese, L., Ongaro, A. (2022). Bayesian nonparametric change points detection for multivariate time series with missing observations. International Journal of Approximate Reasoning. [Link]\n\nDiscussions and conference proceedings\n\nCorradin R., Danese L., KhudaBukhsha W., Ongaro A. (2023). Model-based clustering of nonstationary time series with common historical change times. Proceedings of 2023 Conference of the Italian Statistical Society."
+  },
+  {
+    "objectID": "index.html#software",
+    "href": "index.html#software",
+    "title": "Luca Danese",
+    "section": "Software",
+    "text": "Software\n\nBayesChange: Bayesian Methods for Change Points Analysis, 2025."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Luca Danese",
+    "section": "Education",
+    "text": "Education\nMSc in Statistics | University of Milano-Bicocca (2018 – 2020)\nBSc in Statistics | University of Milano-Bicocca (2015 – 2018)"
+  }
+]

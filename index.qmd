@@ -1,0 +1,51 @@
+---
+title: "Luca Danese"
+subtitle: "PhD student in Statistics"
+page-layout: full
+about:
+  template: solana
+  image-width: 10em
+  image: media/luca.heic
+  image-shape: round
+  links:
+    - icon: envelope-at
+      text: "Email address"
+      href: "mailto: l.danese1@campus.unimib.it"
+    - icon: journal-text
+      text: "Curriculum vitae"
+      href: files/CV_Luca_Danese.pdf  
+    - icon: github
+      text: "Github"
+      href: https://github.com/lucadanese
+---
+
+------------------------------------------------------------------------
+
+I am a PhD student in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) of [University of Milano-Bioccca](https://www.unimib.it/). My main interest lies in Bayesian statistics, particularly the methodological and computational aspects.  
+
+------------------------------------------------------------------------
+
+## Publications
+
+**Preprints** 
+
+1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (2024+). Model-based clustering of time-dependent observations with common structural chang. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
+
+
+**Articles in referred journals**
+
+1.  Corradin, R., **Danese, L.**, Ongaro, A. (2022). Bayesian nonparametric change points detection for multivariate time series with missing observations. International Journal of Approximate Reasoning. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0888613X21002231)
+
+**Discussions and conference proceedings** 
+
+1.  Corradin R., **Danese L.**, KhudaBukhsha W., Ongaro A. (2023). Model-based clustering of nonstationary time series with common historical change times. Proceedings of 2023 Conference of the Italian Statistical Society.
+
+## Software
+
+1. [BayesChange](https://cran.r-project.org/web/packages/BayesChange/index.html): Bayesian Methods for Change Points Analysis, 2025. 
+
+## Education
+
+MSc in Statistics \| University of Milano-Bicocca (2018 – 2020)
+
+BSc in Statistics \| University of Milano-Bicocca (2015 – 2018)
