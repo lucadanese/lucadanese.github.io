@@ -41,10 +41,10 @@ I am a PhD student in Statistics at the [Department of Economics, Management and
 
 ## Software
 
-1.  [BayesChange](https://cran.r-project.org/web/packages/BayesChange/index.html): Bayesian Methods for Change Points Analysis, 2025.
+1.  [BayesChange](https://cran.r-project.org/web/packages/BayesChange/index.html): Bayesian Methods for Change Points Analysis. **Author and Mantainer**, 2025.
 
 ## Education
 
-MSc in Statistics \| University of Milano-Bicocca (2018 – 2020)
+MSc in Statistics \| Advisor: Andrea Ongaro and Riccardo Corradin \| University of Milano-Bicocca (2018 – 2020)
 
-BSc in Statistics \| University of Milano-Bicocca (2015 – 2018)
+BSc in Statistics \| Advisor: Marco Fattore \| University of Milano-Bicocca (2015 – 2018)
