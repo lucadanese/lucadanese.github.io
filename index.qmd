@@ -37,9 +37,9 @@ I am a PhD student in Statistics at the [Department of Economics, Management and
 
 **Discussions and conference proceedings**
 
-2.  **Danese L.**, Corradin R., Ongaro A. (2025). Change Points Detection in EU Inflation Rates. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) Statistics for Innovation III. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham. [\[Link\]] https://doi.org/10.1007/978-3-031-95995-0_12
+2.  **Danese L.**, Corradin R., Ongaro A. (2025). Change Points Detection in EU Inflation Rates. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) Statistics for Innovation III. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham. \[\[Link\]\](https://doi.org/10.1007/978-3-031-95995-0_12)
 
-1.  Corradin R., **Danese L.**, KhudaBukhsha W., Ongaro A. (2023). Model-based clustering of nonstationary time series with common historical change times. Proceedings of 2023 Conference of the Italian Statistical Society.
+3.  Corradin R., **Danese L.**, KhudaBukhsha W., Ongaro A. (2023). Model-based clustering of nonstationary time series with common historical change times. Proceedings of 2023 Conference of the Italian Statistical Society.
 
 ## Software
 
