@@ -21,7 +21,7 @@ about:
 
 ------------------------------------------------------------------------
 
-I am a PhD student in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) of [University of Milano-Bioccca](https://www.unimib.it/). I am also a research collaborator at the [Università della Svizzera Italiana](https://www.usi.ch/en). My main interest lies in Bayesian statistics, particularly the methodological and computational aspects.
+I am a PhD student in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) of [University of Milano-Bicocca](https://www.unimib.it/). I am also a research collaborator at the [Università della Svizzera Italiana](https://www.usi.ch/en). My main interest lies in Bayesian statistics, particularly the methodological and computational aspects.
 
 ------------------------------------------------------------------------
 
