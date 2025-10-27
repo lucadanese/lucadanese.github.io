@@ -29,11 +29,11 @@ I am a PhD student in Statistics at the [Department of Economics, Management and
 
 **Preprints**
 
-1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (2024+). Model-based clustering of time-dependent observations with common structural chang. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
-
 **Articles in referred journals**
 
-1.  Corradin, R., **Danese, L.**, Ongaro, A. (2022). Bayesian nonparametric change points detection for multivariate time series with missing observations. International Journal of Approximate Reasoning. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0888613X21002231)
+1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (forthcoming). Model-based clustering of time-dependent observations with common structural chang. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
+
+2.  Corradin, R., **Danese, L.**, Ongaro, A. (2022). Bayesian nonparametric change points detection for multivariate time series with missing observations. International Journal of Approximate Reasoning. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0888613X21002231)
 
 **Discussions and conference proceedings**
 
