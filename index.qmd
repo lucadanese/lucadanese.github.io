@@ -31,15 +31,15 @@ I am a PhD student in Statistics at the [Department of Economics, Management and
 
 **Articles in referred journals**
 
-1.  Corradin R., Danese L., Ongaro A., KhudaBukhsh W. R. (forthcoming). Model-based clustering of time-dependent observations with common structural chang. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
+1.  Corradin R., **Danese L.**, Ongaro A., KhudaBukhsh W. R. (forthcoming). Model-based clustering of time-dependent observations with common structural chang. [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
 
 2.  Corradin, R., **Danese, L.**, Ongaro, A. (2022). Bayesian nonparametric change points detection for multivariate time series with missing observations. International Journal of Approximate Reasoning. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0888613X21002231)
 
 **Discussions and conference proceedings**
 
-2.  **Danese L.**, Corradin R., Ongaro A. (2025). Change Points Detection in EU Inflation Rates. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) Statistics for Innovation III. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham. [\[Link\]](https://doi.org/10.1007/978-3-031-95995-0_12)
+1.  **Danese L.**, Corradin R., Ongaro A. (2025). Change Points Detection in EU Inflation Rates. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) Statistics for Innovation III. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham. [\[Link\]](https://doi.org/10.1007/978-3-031-95995-0_12)
 
-3.  Corradin R., **Danese L.**, KhudaBukhsha W., Ongaro A. (2023). Model-based clustering of nonstationary time series with common historical change times. Proceedings of 2023 Conference of the Italian Statistical Society.
+2.  Corradin R., **Danese L.**, KhudaBukhsha W., Ongaro A. (2023). Model-based clustering of nonstationary time series with common historical change times. Proceedings of 2023 Conference of the Italian Statistical Society.[\[Link\]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf)
 
 ## Software
 
