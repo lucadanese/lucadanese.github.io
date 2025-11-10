@@ -29,6 +29,9 @@ I am a PhD student in Statistics at the [Department of Economics, Management and
 
 **Preprints**
 
+1.  **Danese L.**, Corradin R., Ongaro A. (2025+). BayesChange: an R package for Bayesian Change Point Analysis. [\[ArXiv\]](https://arxiv.org/abs/2511.04785)
+
+
 **Articles in referred journals**
 
 1.  Corradin R., **Danese L.**, Ongaro A., KhudaBukhsh W. R. (2026). Model-based clustering of time-dependent observations with common structural changes. Statistics and Computing. [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10756-x) [\[ArXiv\]](https://arxiv.org/abs/2410.09552)
